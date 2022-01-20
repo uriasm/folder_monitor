@@ -1,0 +1,26 @@
+{
+    "-MtqeG_5TNkK30EcRsvy": {
+        "created": "2022-01-20 08:45:00.552799",
+        "event_type": "modified",
+        "is_file": 0,
+        "name": "observed-folder",
+        "operation": {
+            "detail": "observed-folder has been modified!"
+        },
+        "path": "/home/murias/Documents/Bunsan/observed-folder",
+        "r_path": "./observed-folder",
+        "updated": "2022-01-20 08:45:00.552785"
+    },
+    "-MtqeYAmi16w0l2E0I7X": {
+        "created": "2022-01-20 08:46:12.640025",
+        "event_type": "deleted",
+        "is_file": 0,
+        "name": "observed-folder",
+        "operation": {
+            "detail": "observed-folder has been deleted!"
+        },
+        "path": "/home/murias/Documents/Bunsan/observed-folder",
+        "r_path": "./observed-folder",
+        "updated": "2022-01-20 08:46:12.640009"
+    }
+}

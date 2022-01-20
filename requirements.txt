@@ -1,0 +1,4 @@
+watchdog
+firebase_admin
+websockets
+ websocket-client
